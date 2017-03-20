@@ -1,0 +1,2 @@
+# NekoTheCatGame
+This was an ECE 309, Object Oriented Programming, class project at NCSU. The project is written in Java and was an introduction to game development, animation, playing sound files, using mouse GUI events, and making an executable jar file. The game is a simple window in which the user clicks the mouse to keep a ball away from a cat named Neko. To run the game, navigate to the directory that contains the Neko.jar file and type on the command line: java -jar Neko.jar
